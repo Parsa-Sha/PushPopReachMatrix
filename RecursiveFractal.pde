@@ -1,3 +1,8 @@
+// Recursive Fractal
+// Using a recursive function, I made a fractal that brances out based on an angle that is calculated from mouse position
+// 02/18/2022
+// https://github.com/Parsa-Sha/RecursiveFractal
+
 float theta;   
 
 void setup() {
